@@ -7,7 +7,7 @@
   Previously known as [@Praryo](https://github.com/Praryo) - Check out my journey from the beginning!
 
   [![GitHub](https://img.shields.io/badge/Previous_Profile-Praryo-2ea44f?style=for-the-badge&logo=github)](https://github.com/Praryo)
-  ![Profile Views](https://komarev.com/ghpvc/?username=cyrrileric&color=11116f&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=llvss&color=11116f&style=for-the-badge)
 </div>
 
 <!-- About Me Section -->
