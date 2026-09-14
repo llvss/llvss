@@ -1,8 +1,17 @@
 <h1 data-importer="text" align="left">👨‍💻 About Me</h1>
 
 ###
-<p data-importer="text" align="left">```const praryo = {<br>    previousProfile: "github.com/Praryo",<br>    age: 22,<br>    location: "Earth 🌍",<br>    occupation: "Software Developer",<br>    passions: ["Coding", "Problem Solving", "Learning New Technologies"],<br>    experience: "Programming since grade school",<br>    funFact: "Turning coffee ☕ into code since childhood!"<br>};```</p>
-
+```typescript
+const praryo = {
+    previousProfile: "github.com/Praryo",
+    age: 22,
+    location: "Earth 🌍",
+    occupation: "Software Developer",
+    passions: ["Coding", "Problem Solving", "Learning New Technologies"],
+    experience: "Programming since grade school",
+    funFact: "Turning coffee ☕ into code since childhood!"
+};
+```
 ###
 
 <h1 data-importer="text" align="left">Tech Stack</h1>
