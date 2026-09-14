@@ -1,9 +1,9 @@
 <h1 data-importer="text" align="left">👨‍💻 About Me</h1>
 
 ###
-
+```
 <p data-importer="text" align="left">const praryo = {<br>    previousProfile: "github.com/Praryo",<br>    age: 22,<br>    location: "Earth 🌍",<br>    occupation: "Software Developer",<br>    passions: ["Coding", "Problem Solving", "Learning New Technologies"],<br>    experience: "Programming since grade school",<br>    funFact: "Turning coffee ☕ into code since childhood!"<br>};</p>
-
+```
 ###
 
 <h1 data-importer="text" align="left">Tech Stack</h1>
