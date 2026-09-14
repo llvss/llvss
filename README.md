@@ -2,14 +2,14 @@
 
 ###
 ```typescript
-const praryo = {
-    previousProfile: "github.com/Praryo",
-    age: 22,
-    location: "Earth 🌍",
-    occupation: "Software Developer",
+const lvs = {
+    previousProfile: "github.com/llvss",
+    age: 18,
+    location: "Mabalacat City, Pampanga",
+    occupation: "Stupidyante",
     passions: ["Coding", "Problem Solving", "Learning New Technologies"],
-    experience: "Programming since grade school",
-    funFact: "Turning coffee ☕ into code since childhood!"
+    experience: "Alot",
+    funFact: "Started coding FiveM Development since 2019."
 };
 ```
 ###
