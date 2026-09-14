@@ -98,7 +98,7 @@ const lvs = {
 
 <div data-importer="music" align="center"> 
   <a href="https://open.spotify.com/user/31g5eb3mffby3ab6sisiduad3j5q"> 
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31g5eb3mffby3ab6sisiduad3j5q&theme=legacy&radius=7&duration=1&footer=wave" alt="Spotify recently played" /> 
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31g5eb3mffby3ab6sisiduad3j5q&theme=legacy&width=560&radius=7&duration=1&footer=wave" alt="Spotify recently played" /> 
   </a> 
 </div>
 
